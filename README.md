@@ -1,9 +1,6 @@
-# geomechanics
-Set of Jupyter Notebooks of concepts in geomechanics
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-A compilation of Jupyter Notebook for understanding different concepts in geomechanics. Under construction.
+A compilation of Jupyter Notebook for understanding different concepts in geomechanics. Under construction mostly for my own understanding but with future teaching in mind.
 
 <!-- ROADMAP -->
 ### Scripts contained
