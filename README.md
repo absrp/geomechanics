@@ -1,5 +1,5 @@
 # geomechanics
-Set of Jupyter Notebooks to concepts in geomechanics
+Set of Jupyter Notebooks of concepts in geomechanics
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
