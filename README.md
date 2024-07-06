@@ -10,7 +10,7 @@ Theoretical estimates of nucleation size considering the different solutions of 
 
 - energy_release_rate.ipynb
 
-Analytical solutions for the energy release rate under different rupture models. Currently only contains the pulse model from Weng and Ampuero (2019) for a fault with L>>W.
+Analytical solutions for the energy release rate under different rupture models. \textbf{Under construction!!!!} Currently only contains the pulse model from Weng and Ampuero (2019) for a fault with L>>W.
 
 <!-- CONTACT -->
 ## Contact
