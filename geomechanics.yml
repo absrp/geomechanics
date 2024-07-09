@@ -1,0 +1,7 @@
+name: geomechanics
+dependencies:
+  - python=3.8  # or any other specific version you need
+  - ipykernel
+  - pip
+  - pip:
+      - typing-extensions  # typing-extensions is a package that includes Optional
