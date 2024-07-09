@@ -6,7 +6,8 @@ A compilation of Jupyter Notebook for understanding different concepts in geomec
 ### Scripts contained
 - estimate_nucleation_size.ipynb
 
-Theoretical estimates of nucleation size considering the different solutions of Rice and Ruina (1983), Rubin and Ampuero (2005), and Chen and Lapusta (2009), compiled in Laspusta and Liu (2009). Includes option to test whether maximum model grid is sufficiently small to appropriately resolve nucleation. 
+Theoretical estimates of nucleation size considering the different solutions of Rice and Ruina (1983), Rubin and Ampuero (2005), and Chen and Lapusta (2009), compiled in Laspusta and Liu (2009). Theoretical estimate of the process zone size under the assumption of rate and state friction.
+Includes option to test whether maximum model grid is sufficiently small to appropriately resolve nucleation. 
 
 - energy_release_rate.ipynb
 
